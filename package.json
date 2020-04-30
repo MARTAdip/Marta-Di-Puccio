@@ -21,7 +21,7 @@
   "dependencies": {
     "babel": "^6.23.0",
     "compile-sass": "^1.0.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.1",
     "sass": "^1.26.3",
     "scss": "^0.2.4",
