@@ -22,7 +22,7 @@
     "babel": "^6.23.0",
     "compile-sass": "^1.0.5",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass": "^1.26.3",
     "scss": "^0.2.4",
     "webpack": "^4.42.0"
